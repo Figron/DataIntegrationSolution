@@ -1,0 +1,1 @@
+"""Minio Watcher module."""
